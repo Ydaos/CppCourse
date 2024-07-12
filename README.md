@@ -5,17 +5,17 @@ C++的课程主要包括三部分：基础知识、进阶部分（面向对象�
 ## Basis
 基础部分介绍了基本数据类型、运算符、指针等基础知识。
 
-![Basis](./images/Basis.jpg)
+![Basis](./images/Basis.png)
 
 ## Advance
 进阶部分介绍C++的三大特性：封装、继承和多态，以及面向对象编程。
 
-![Advance](./images/Advance.jpg)
+![Advance](./images/Advance.png)
 
 ## Improve
 提高部分介绍了泛型编程思想，以及STL容器和Algorithm算法库的使用。
 
-![Improve](./images/Improve.jpg)
+![Improve](./images/Improve.png)
 
 ## 注意事项：
 ```

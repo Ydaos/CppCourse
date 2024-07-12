@@ -2,7 +2,7 @@ C++ Advance
 ===
 进阶部分介绍C++的三大特性：封装、继承和多态，以及面向对象编程。
 
-![Advance](../images/Advance.jpg)
+![Advance](../images/Advance.png)
 
 ## 通过VS开发者工具查看对象模型
 

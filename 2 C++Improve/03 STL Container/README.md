@@ -2,7 +2,7 @@ STL Container
 ===
 STL (Standard Template Library,标准模板库) 广义上分为：容器、算法和迭代器。其中STL容器为我们提供了各种数据结构，如vector、list、map等。熟练掌握内置的数据结构非常重要。
 
-![Container](../../images/STL_Container.jpg)
+![Container](../../images/STL_Container.png)
 
 
 ## 常用容器简介：
